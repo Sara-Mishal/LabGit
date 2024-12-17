@@ -1,1 +1,2 @@
 # LabGit
+Manual for github
